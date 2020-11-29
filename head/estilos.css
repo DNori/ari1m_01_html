@@ -1,0 +1,67 @@
+		body 
+		{
+			text-align:center;background-color:#6FC16D;
+		}
+		#tabla_mosaico
+		{
+			display:inline-block; width:800px; height:260px;
+					 background:url('imageneshtml5/campo.jpg')
+		}
+		#tabla_mosaico_c1
+		{
+			text-align:center;
+			width:800px;
+			padding:19px;
+		}
+		h1
+		{
+			color:green;text-align:center;
+		}
+		img 
+		{
+			width:192px;
+		}
+		.div
+		{
+			height:0em
+		}
+		#tabla_jugadores
+		{
+			display:inline-block;text-align:center; width:378.4px; height:312.8px; background-color:white;margin:15px;
+		}
+		#tabla_jugadores_th1
+		{
+			width:189.5px; height:153.6px;
+		}
+		.tabla_jugadores_td
+		{
+			text-align:left
+		}
+		#tabla_jugadores_th2
+		{
+			width:189.5px; height:102.4px
+		}
+		#tabla_jugadores_th3
+		{
+			height:50.4px
+		}
+		#tabla_momentos
+		{
+			display:inline-block;text-align:left;width:758.4px; background-color:white; padding:15px;
+		}
+		.h2
+		{
+			color:green;text-align:center;
+		}
+		h3
+		{
+			font-weight:bold;font-style:italic;
+		}
+		.h4
+		{
+			color:green;text-decoration:underline;
+		}
+		.parrafos
+		{
+			font-size:medium;	
+		}
